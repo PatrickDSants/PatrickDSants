@@ -1,4 +1,4 @@
-## Oiii eu sou a Patrick Anderson, futuro desenvolvedor de Software! 👋
+## Hi I'm Patrick Anderson, Future Software Developer! 👋
 <div align="center">
   <a href="https://github.com/PatrickDSants">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickDSants&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,9 +8,9 @@
   
  ##
   
-* 🔭 Estou atualmente trabalhando em projetos de paginas responsivas e com boa acessibilidade.
-* 🌱 Estou aprendendo mais sobre Javascript e outras linguagens pela Alura.
-* 😄 Pronouns: Ele/Dele 
+* 🔭 I'm currently working on responsive pages projects with good accessibility.
+* 🌱 I'm learning more about Javascript and other languages through Alura.
+* 😄 Pronouns: Him/his
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Patrick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
