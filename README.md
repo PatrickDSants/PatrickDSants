@@ -9,7 +9,7 @@
  ##
   
 * 🔭 I'm currently working on responsive pages projects with good accessibility.
-* 🌱 I'm learning more about Javascript and other languages through Alura.
+* 🌱 I'm learning more about Vue and React through Alura.
 * 😄 Pronouns: Him/his
   
  <div style="display: inline_block"><br>
