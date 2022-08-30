@@ -6,8 +6,6 @@
 </div>
   <br>
   
- ##
-  
 - 🔭 I'm currently working on responsive pages projects with good accessibility.
 - 🌱 I'm learning more about Vue and React through Alura.
 - 😄 Pronouns: Him/his
@@ -32,6 +30,9 @@
   <a href = "mailto:patrickandersonn29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patrick-anderson-45384a220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
+ 
+ <section align="left">
+  <img src="https://komarev.com/ghpvc/?username=Patrickdsants&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
  
 ![Snake animation](https://github.com/PatrickDSants/PatrickDSants/blob/output/github-contribution-grid-snake.svg)
   
