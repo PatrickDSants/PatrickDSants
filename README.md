@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Patrick Anderson, Front-end Developer!! 👋</h1>
+<h1 align="center">Hi I'm Patrick Anderson, a Front-end Developer!! 👋</h1>
 <div align="center">
    <h2 align="center"><img src="https://media.giphy.com/media/4BJCvMoLPePq8/giphy.gif" height="120px"> About me:</h2>
   
