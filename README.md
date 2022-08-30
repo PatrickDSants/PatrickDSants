@@ -31,8 +31,9 @@
   <a href="https://www.linkedin.com/in/patrick-anderson-45384a220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
  
- <section align="left">
-  <img src="https://komarev.com/ghpvc/?username=Patrickdsants&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
+ 
+   ![](https://komarev.com/ghpvc/?username=Patrickdsants&color=blueviolet&style=flat-square)
+   </div>
  
 ![Snake animation](https://github.com/PatrickDSants/PatrickDSants/blob/output/github-contribution-grid-snake.svg)
   
