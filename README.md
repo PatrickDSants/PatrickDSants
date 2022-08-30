@@ -8,9 +8,9 @@
   
  ##
   
-* 🔭 I'm currently working on responsive pages projects with good accessibility.
-* 🌱 I'm learning more about Vue and React through Alura.
-* 😄 Pronouns: Him/his
+- 🔭 I'm currently working on responsive pages projects with good accessibility.
+- 🌱 I'm learning more about Vue and React through Alura.
+- 😄 Pronouns: Him/his
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Patrick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
