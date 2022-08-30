@@ -1,6 +1,7 @@
+<h1 align="center">Hi I'm Patrick Anderson, Front-end Developer!! 👋</h1>
 <div align="center">
-   <h1 align="center"><img src="https://media.giphy.com/media/4BJCvMoLPePq8/giphy.gif" height="120px"> About me</h1>
-  Hi I'm Patrick Anderson, Front-end Developer!! 👋 <br><br>
+   <h2 align="center"><img src="https://media.giphy.com/media/4BJCvMoLPePq8/giphy.gif" height="120px"> About me:</h2>
+  
  I'm passionate about designing websites with accessibility, useful and clean, I love studying everything that involves accessibility on the web, currently I'm studying react and practicing my skills, I'm more focused on the front end because I've always loved doing anything related to design, I do some arts on my twitter, so you can check it out.
  <br><br>
 </div>
