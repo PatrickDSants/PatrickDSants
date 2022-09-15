@@ -12,10 +12,13 @@
 </div>
   <br>
   
-- 🔭 I'm currently working on responsive pages projects with good accessibility.
-- 🌱 I'm learning more about Vue and React through Alura.
-- 😄 Pronouns: Him/his
+  ## Facts
+-🔭 I'm currently working on responsive pages projects with good accessibility.<br>
+-🌱 I'm learning more about Vue and React through Alura.<br>
+-😄 Pronouns: Him/his
   
+  ## My skills
+<div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Patrick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Patrick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,6 +28,7 @@
   <img align="center" alt="Patrick-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Patrick-pic" src="https://media.discordapp.net/attachments/893669845936250883/927644059978334218/Design_sem_nome_1.gif?width=200&height=200">
   <img  align="center" alt="Patrick-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
 </div>
   
   ##
