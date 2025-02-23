@@ -25,7 +25,7 @@
   <img align="center" alt="Patrick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Patrick-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Patrick-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
-  <img align="center" alt="Patrick-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Patrick-tailwind" height="30" width="40" src="https://img.icons8.com/plasticine/100/tailwind_css.png" alt="tailwind_css"/>
   <img align="center" alt="Patrick-pic" src="https://media.discordapp.net/attachments/893669845936250883/927644059978334218/Design_sem_nome_1.gif?width=200&height=200">
   <img  align="center" alt="Patrick-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
