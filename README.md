@@ -5,23 +5,17 @@
  I'm passionate about designing websites with accessibility, useful and clean, I love studying everything that involves accessibility on the web, currently I'm studying react and practicing my skills, I'm more focused on the front end because I've always loved doing anything related to design, I do some arts on my twitter, so you can check it out.
  <br><br>
 </div>
+
+    - 📊 Here are some stats about my GitHub profile:
+
+
 <div align="center">
   <a href="https://github.com/PatrickDSants">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Patrickdsants&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickdsants&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <br>
-    - 📊 Here are some stats about my GitHub profile:
-  
-<!-- GitHub readme stats https://github.com/jstrieb/github-stats -->
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/PatrickDSants/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview"/>
-     <img src="https://raw.githubusercontent.com/PatrickDSants/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview"/>
-    <img src="https://raw.githubusercontent.com/PatrickDSants/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Lang Stats"/>
-     <img src="https://raw.githubusercontent.com/PatrickDSants/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="GitHub Lang Stats"/>
-  </div>
-<br>
-
+     
 <!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
