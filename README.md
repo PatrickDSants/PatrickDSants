@@ -11,6 +11,24 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickdsants&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <br>
+    - 📊 Here are some stats about my GitHub profile:
+  
+<!-- GitHub readme stats https://github.com/jstrieb/github-stats -->
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/PatrickDSants/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview"/>
+     <img src="https://raw.githubusercontent.com/PatrickDSants/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview"/>
+    <img src="https://raw.githubusercontent.com/PatrickDSants/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Lang Stats"/>
+     <img src="https://raw.githubusercontent.com/PatrickDSants/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="GitHub Lang Stats"/>
+  </div>
+<br>
+
+<!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PatrickDSants&theme=onestar&no-frame=true&row=2&column=3" alt="PatrickDSants Profile Trophies" />
+  </a>
+</div>
+</br>
   
   ## Facts
 -🔭 I'm currently working on responsive pages projects with good accessibility.<br>
