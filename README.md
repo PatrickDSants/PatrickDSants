@@ -1,8 +1,9 @@
 <h1 align="center">Hi I'm Patrick Anderson, a Front-end Developer!! 👋</h1>
+Check out my portfolio: <a href="https://portifolio-sepia-rho.vercel.app/">SITE HERE</a>
 <div align="center">
    <h2 align="center"><img src="https://media.giphy.com/media/4BJCvMoLPePq8/giphy.gif" height="120px"> About me:</h2>
   
- I'm passionate about designing websites with accessibility, useful and clean, I love studying everything that involves accessibility on the web, currently I'm studying react and practicing my skills, I'm more focused on the front end because I've always loved doing anything related to design, I do some arts on my twitter, so you can check it out.
+ I'm passionate about designing clean, accessible, and useful websites. I love studying everything that involves accessibility on the web, currently I'm studying react and practicing my skills, I'm more focused on the front end because I've always loved doing anything related to design, I do some arts on my twitter, so you can check it out.
  <br><br>
 </div>
 
@@ -15,6 +16,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickDSants&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
   <br>
+
+  ## GitHub Achievement
      
 <!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
@@ -26,8 +29,9 @@
   
   ## Facts
 -🔭 I'm currently working on responsive pages projects with good accessibility.<br>
--🌱 I'm learning more about Vue and React through Alura.<br>
+-🌱 I'm currently focusing on React and modern front-end development, enhancing my skills through Alura.<br>
 -😄 Pronouns: Him/his
+<br>
   
   ## My skills
 <div>
@@ -42,8 +46,9 @@
   <img  align="center" alt="Patrick-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 </div>
+<br>
   
-  ##
+  ## Feel free to reach out for collaborations or job opportunities!
   
   <div> 
   <a href="https://www.youtube.com/channel/UCZk8xkh8XNog0JhsKX7Ditg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
