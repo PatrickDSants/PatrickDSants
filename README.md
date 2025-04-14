@@ -10,21 +10,44 @@ Check out my portfolio: <a href="https://portifolio-sepia-rho.vercel.app/">SITE 
 </div>
 
 ## 📊 GitHub Stats:
-
-<div align="center">
-  <a href="https://github.com/PatrickDSants">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PatrickDSants&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickDSants&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-</div>
+  
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=PatrickDSants&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+        alt="Github stats" height="150px"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickDSants&theme=radical&hide_border=true"
+        alt="Github stats" height="150px"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickDSants&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats" height="150px"
+      />
+    </td>
+  </tr>
+</table>
   <br>
 
 ## 🏆 GitHub Achievements:
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PatrickDSants&theme=onestar&no-frame=true&row=2&column=3" alt="PatrickDSants Profile Trophies" />
-  </a>
-</div>
+  ![](https://github-profile-trophy.vercel.app/?username=PatrickDSants&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+ <a href="https://visitcount.itsvg.in">
+ 
+ </a>
+</p>
 </br>
   
 ## 🔄 Featured Projects:
@@ -68,7 +91,11 @@ Feel free to reach out via [Email](mailto:patrickandersonn29@gmail.com).
  
   ![](https://komarev.com/ghpvc/?username=Patrickdsants&color=blueviolet&style=flat-square)
 
-![Snake animation](https://github.com/PatrickDSants/PatrickDSants/blob/main/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatrickDSants/PatrickDSants/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PatrickDSants/PatrickDSants/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PatrickDSants/PatrickDSants/output/pacman-contribution-graph.svg">
+</picture>
 
 
   
