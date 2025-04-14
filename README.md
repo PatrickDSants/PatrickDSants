@@ -97,6 +97,9 @@ Feel free to reach out via [Email](mailto:patrickandersonn29@gmail.com).
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PatrickDSants/PatrickDSants/output/pacman-contribution-graph.svg">
 </picture>
 
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
+
 
   
   
