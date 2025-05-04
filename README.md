@@ -71,6 +71,7 @@ Check out my portfolio: <a href="https://portifolio-sepia-rho.vercel.app/">SITE 
   <img align="center" alt="Patrick-tailwind" height="30" width="40" src="https://img.icons8.com/plasticine/100/tailwind_css.png" alt="tailwind_css"/>
   <img align="center" alt="Patrick-pic" src="https://media.discordapp.net/attachments/893669845936250883/927644059978334218/Design_sem_nome_1.gif?width=200&height=200">
   <img  align="center" alt="Patrick-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img  align="center" alt="Patrick-git" height="30" width="40" src="https://www.flaticon.com/free-icon/physics_1126012?term=react&page=1&position=3&origin=tag&related_id=1126012" />
 </div>
 </div>
 <br>
